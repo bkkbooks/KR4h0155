@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR4h0155/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4h0155/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐人萬首絕句選
+  date: '2015-08-25 00:43:02.446686'
+  source:
+    repository: kanripo
+    path: KR4h0155
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4h0155_000-WYG.yaml, hash: 'sha256:c847d0e5c5ef0681d3572e5ed1dd66a3bf3417df38589efe68f718f4e929bb9c'}
+  - {seq: 1, filename: KR4h0155_001-WYG.yaml, hash: 'sha256:c8bfda0f66cc8fdda8cfce5b41f5afb0142efc15d4f438b3a210683416899d5e'}
+  - {seq: 2, filename: KR4h0155_002-WYG.yaml, hash: 'sha256:b6c60ee316a73f1c1f3d57e1daadd95eeb08aaaebd28edd9120566a00cb6d7c6'}
+  - {seq: 3, filename: KR4h0155_003-WYG.yaml, hash: 'sha256:9f167d559e8b1888356ec7bd53c2478c4df38be1446353997c5109fbc39a756c'}
+  - {seq: 4, filename: KR4h0155_004-WYG.yaml, hash: 'sha256:e1d57bc4bb25dcca5fdb75b2909dce26422080532cdefafebccee8ba538e7881'}
+  - {seq: 5, filename: KR4h0155_005-WYG.yaml, hash: 'sha256:a61f3a2dae428cb7412d7d8be75b3439d94ed62430d5d928766211ab69844cfa'}
+  - {seq: 6, filename: KR4h0155_006-WYG.yaml, hash: 'sha256:b3cd0637afd1d2d595af394797559e44e8ec7976d2486be10ca39e752526d239'}
+  - {seq: 7, filename: KR4h0155_007-WYG.yaml, hash: 'sha256:bba1e082bbfc6727f47953e0faf2c489265639967f19fe55cd35ddf89fb61b86'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4h0155_000-WYG.markers.yaml, hash: 'sha256:656eb1335f57b65b92e5aec5c66fe24662a410f7a6f757944de0ae29707c4932'}
+  - {seq: 1, role: markers, filename: assets/KR4h0155_001-WYG.markers.yaml, hash: 'sha256:9bc048327cd8291ea4499c9eebf87d2c369542e71ad2fed367da0d919e737f23'}
+  - {seq: 2, role: markers, filename: assets/KR4h0155_002-WYG.markers.yaml, hash: 'sha256:9901c3754805d00d9a779163a8cda620b1d7b10249aca20646f4ce7ff3aaacdd'}
+  - {seq: 3, role: markers, filename: assets/KR4h0155_003-WYG.markers.yaml, hash: 'sha256:107e6e8b8d1a971ae0dba30f8a0777ecf4086ef21ef1ebdda2921fb362f346a8'}
+  - {seq: 4, role: markers, filename: assets/KR4h0155_004-WYG.markers.yaml, hash: 'sha256:52cecf6a39dcdc2ae558fe42d74105006a6c89244a76175373f612070b96af87'}
+  - {seq: 5, role: markers, filename: assets/KR4h0155_005-WYG.markers.yaml, hash: 'sha256:18350f1e890cef0c62ad07bb263fb3136c6d4a6d6d2f621a4a57cd83a4143839'}
+  - {seq: 6, role: markers, filename: assets/KR4h0155_006-WYG.markers.yaml, hash: 'sha256:1e1b017e2de1e4fcb6b3d95d6d374970a185b714588bc9136f4ab8b46410eb9b'}
+  - {seq: 7, role: markers, filename: assets/KR4h0155_007-WYG.markers.yaml, hash: 'sha256:5504f89d0c47eb197d34f8dd77772addcf1ae737db5582100ebbc24249914066'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4h0155_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 278
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0155_WYG_000-3a
+    span:
+    - body
+    - 278
+    - 738
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4h0155_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2914
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0155_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 2760
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4h0155_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 4277
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4h0155_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 4540
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4h0155_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 4513
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4h0155_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 4306
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4h0155_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 4081
+  label: 卷七
+  type: section
+  level: 1
+hash: sha256:5d10db9a1a229d2987df77c24844225cc8f41ff203be49b6d75d264ef2bf5c59
